@@ -1,26 +1,16 @@
 #include <iostream>
 #include <string>
+#include <utility>
+#include "Tutorial/T1.h"
+#include "Lecture/L2.h"
 
 using namespace std;
 
 int main() {
-    string holder;
-    cout << "Give me Meter \n";
-    try
-    {
-        getline(cin, holder);
-        const auto height = stod(holder);
-        const auto cm = height * 100;
-        const auto inch = cm / 2.54;
-        const auto foot = inch / 12;
-        cout << "Inch :" << inch << "\n";
-        cout << "Foot :" << foot << "\n";
-        cout << "Inch : " << round(inch) << " Food : " << round(foot);
-        cout << round(foot);
+//    T1::handle();
+//    L2::handle();
+//    L2::handle2();
+//    L2::handle3();
+    L2::handle4();
 
-    }
-    catch (const std::exception& s)
-    {
-
-    }
 }

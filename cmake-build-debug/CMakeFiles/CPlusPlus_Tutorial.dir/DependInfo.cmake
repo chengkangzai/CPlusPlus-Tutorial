@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L2.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L2.cpp.obj"
+  "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T1.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T1.cpp.obj"
   "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/main.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")

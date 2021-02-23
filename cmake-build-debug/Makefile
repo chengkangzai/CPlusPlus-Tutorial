@@ -127,6 +127,60 @@ CPlusPlus_Tutorial\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\build
 .PHONY : CPlusPlus_Tutorial\fast
 
+Lecture\L2.obj: Lecture\L2.cpp.obj
+
+.PHONY : Lecture\L2.obj
+
+# target to build an object file
+Lecture\L2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L2.cpp.obj
+.PHONY : Lecture\L2.cpp.obj
+
+Lecture\L2.i: Lecture\L2.cpp.i
+
+.PHONY : Lecture\L2.i
+
+# target to preprocess a source file
+Lecture\L2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L2.cpp.i
+.PHONY : Lecture\L2.cpp.i
+
+Lecture\L2.s: Lecture\L2.cpp.s
+
+.PHONY : Lecture\L2.s
+
+# target to generate assembly for a file
+Lecture\L2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L2.cpp.s
+.PHONY : Lecture\L2.cpp.s
+
+Tutorial\T1.obj: Tutorial\T1.cpp.obj
+
+.PHONY : Tutorial\T1.obj
+
+# target to build an object file
+Tutorial\T1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T1.cpp.obj
+.PHONY : Tutorial\T1.cpp.obj
+
+Tutorial\T1.i: Tutorial\T1.cpp.i
+
+.PHONY : Tutorial\T1.i
+
+# target to preprocess a source file
+Tutorial\T1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T1.cpp.i
+.PHONY : Tutorial\T1.cpp.i
+
+Tutorial\T1.s: Tutorial\T1.cpp.s
+
+.PHONY : Tutorial\T1.s
+
+# target to generate assembly for a file
+Tutorial\T1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T1.cpp.s
+.PHONY : Tutorial\T1.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -163,6 +217,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... CPlusPlus_Tutorial
+	@echo ... Lecture/L2.obj
+	@echo ... Lecture/L2.i
+	@echo ... Lecture/L2.s
+	@echo ... Tutorial/T1.obj
+	@echo ... Tutorial/T1.i
+	@echo ... Tutorial/T1.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
