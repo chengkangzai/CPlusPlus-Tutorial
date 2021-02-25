@@ -181,6 +181,33 @@ Tutorial\T1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T1.cpp.s
 .PHONY : Tutorial\T1.cpp.s
 
+Tutorial\T2.obj: Tutorial\T2.cpp.obj
+
+.PHONY : Tutorial\T2.obj
+
+# target to build an object file
+Tutorial\T2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T2.cpp.obj
+.PHONY : Tutorial\T2.cpp.obj
+
+Tutorial\T2.i: Tutorial\T2.cpp.i
+
+.PHONY : Tutorial\T2.i
+
+# target to preprocess a source file
+Tutorial\T2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T2.cpp.i
+.PHONY : Tutorial\T2.cpp.i
+
+Tutorial\T2.s: Tutorial\T2.cpp.s
+
+.PHONY : Tutorial\T2.s
+
+# target to generate assembly for a file
+Tutorial\T2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T2.cpp.s
+.PHONY : Tutorial\T2.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -223,6 +250,9 @@ help:
 	@echo ... Tutorial/T1.obj
 	@echo ... Tutorial/T1.i
 	@echo ... Tutorial/T1.s
+	@echo ... Tutorial/T2.obj
+	@echo ... Tutorial/T2.i
+	@echo ... Tutorial/T2.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
