@@ -92,7 +92,6 @@ void T2::handle4() {
 
     int holder = 0;
     for (int i = 1; i <= inputNumber; i = i + 1) {
-        cout << "value of a: " << i << endl;
         holder += i;
     }
     cout << "Final Number : " << holder;
