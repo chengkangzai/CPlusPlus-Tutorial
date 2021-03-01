@@ -74,8 +74,7 @@ void T2::handle3() {
     const double caloriesBurnPerMinute = 3.9;
     int minuteWorked = 10;
     while (minuteWorked <= 31) {
-        cout << "Working in " << minuteWorked << " is : " << minuteWorked * caloriesBurnPerMinute
-             << " calories \n ";
+        cout << "Working in " << minuteWorked << " is : " << minuteWorked * caloriesBurnPerMinute << " calories \n ";
         minuteWorked += 5;
     }
 }
