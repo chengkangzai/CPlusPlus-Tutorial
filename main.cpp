@@ -4,7 +4,8 @@
 //#include "Tutorial/T1.h"
 //#include "Tutorial/T2.h"
 //#include "Lecture/L2.h"
-#include "Tutorial/T3.h"
+#include "Lecture/L3.h"
+//#include "Tutorial/T3.h"
 
 using namespace std;
 
@@ -19,5 +20,9 @@ int main() {
 //    T2::handle3();
 //    T2::handle4();
 //    T3::handle1();
-    T3::handle2();
+//    T3::handle2();
+//    L3::main1();
+//    L3::main3();
+//    L3::main5();
+    L3::homework();
 }
