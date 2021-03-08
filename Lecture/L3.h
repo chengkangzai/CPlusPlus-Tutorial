@@ -112,7 +112,7 @@ public:
                 cout << array[i][j] << "|";
             }
             cout << "\n";
-       }
+        }
         cout << "------------ \n";
     }
 
