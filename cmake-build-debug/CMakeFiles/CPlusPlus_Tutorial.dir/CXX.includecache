@@ -6,17 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L3.cpp
-L3.h
-C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L3.h
+C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T3.cpp
+T3.h
+C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T3.h
 
-C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L3.h
+C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T3.h
 iostream
 -
 iomanip
 -
-
-C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/main.cpp
-Lecture/L3.h
-C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L3.h
 

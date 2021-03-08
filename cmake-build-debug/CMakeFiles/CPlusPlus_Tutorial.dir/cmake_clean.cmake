@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L2.cpp.obj"
+  "CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L3.cpp.obj"
   "CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T1.cpp.obj"
   "CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T2.cpp.obj"
   "CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T3.cpp.obj"

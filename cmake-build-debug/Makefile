@@ -154,6 +154,33 @@ Lecture\L2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L2.cpp.s
 .PHONY : Lecture\L2.cpp.s
 
+Lecture\L3.obj: Lecture\L3.cpp.obj
+
+.PHONY : Lecture\L3.obj
+
+# target to build an object file
+Lecture\L3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L3.cpp.obj
+.PHONY : Lecture\L3.cpp.obj
+
+Lecture\L3.i: Lecture\L3.cpp.i
+
+.PHONY : Lecture\L3.i
+
+# target to preprocess a source file
+Lecture\L3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L3.cpp.i
+.PHONY : Lecture\L3.cpp.i
+
+Lecture\L3.s: Lecture\L3.cpp.s
+
+.PHONY : Lecture\L3.s
+
+# target to generate assembly for a file
+Lecture\L3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L3.cpp.s
+.PHONY : Lecture\L3.cpp.s
+
 Tutorial\T1.obj: Tutorial\T1.cpp.obj
 
 .PHONY : Tutorial\T1.obj
@@ -274,6 +301,9 @@ help:
 	@echo ... Lecture/L2.obj
 	@echo ... Lecture/L2.i
 	@echo ... Lecture/L2.s
+	@echo ... Lecture/L3.obj
+	@echo ... Lecture/L3.i
+	@echo ... Lecture/L3.s
 	@echo ... Tutorial/T1.obj
 	@echo ... Tutorial/T1.i
 	@echo ... Tutorial/T1.s
