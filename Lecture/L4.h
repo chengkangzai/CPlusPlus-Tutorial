@@ -93,7 +93,7 @@ public:
                 counter++;
             }
         }
-        cout << "Result : " << counter << "/15 \n";
+        cout << "Result : " << counter << "/15";
         if (counter >= 12) {
             cout << "Passed";
         } else {
@@ -104,9 +104,14 @@ public:
 
     static void handle5() {
         int a[5] = {4, 2, 7, 9, 6};
+        cout << "Before Sort! \n";
+        for (int i = 0; i < 5; ++i) {
+            cout << a[i] << " ";
+        }
+        cout << "\nAfter Sort\n";
         arrSort(a);
         for (int i = 0; i < 5; ++i) {
-            cout << a[i];
+            cout << a[i] << " ";
         }
     }
 
