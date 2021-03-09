@@ -5,6 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T1.cpp.obj"
   "CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T2.cpp.obj"
   "CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T3.cpp.obj"
+  "CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T4.cpp.obj"
   "CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.obj"
   "CPlusPlus_Tutorial.exe"
   "CPlusPlus_Tutorial.exe.manifest"
