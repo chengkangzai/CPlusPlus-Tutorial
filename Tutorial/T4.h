@@ -2,8 +2,8 @@
 // Created by CCK on 2021-03-08.
 //
 
-#ifndef CPLUSPLUS_TUTORIAL_L4_H
-#define CPLUSPLUS_TUTORIAL_L4_H
+#ifndef CPLUSPLUS_TUTORIAL_T4_H
+#define CPLUSPLUS_TUTORIAL_T4_H
 
 #include <iostream>
 #include <string>
@@ -11,7 +11,7 @@
 
 using namespace std;
 
-class L4 {
+class T4 {
 public:
     static void handle1() {
         int intbilly[6] = {16, 2, 77, 40, 12071, 51};
@@ -93,7 +93,7 @@ public:
                 counter++;
             }
         }
-        cout << "Result : " << counter << "/15 \n";
+        cout << "Result : " << counter << "/15";
         if (counter >= 12) {
             cout << "Passed";
         } else {
@@ -104,9 +104,14 @@ public:
 
     static void handle5() {
         int a[5] = {4, 2, 7, 9, 6};
+        cout << "Before Sort! \n";
+        for (int i = 0; i < 5; ++i) {
+            cout << a[i] << " ";
+        }
+        cout << "\nAfter Sort\n";
         arrSort(a);
         for (int i = 0; i < 5; ++i) {
-            cout << a[i];
+            cout << a[i] << " ";
         }
     }
 
@@ -126,4 +131,4 @@ private:
 };
 
 
-#endif //CPLUSPLUS_TUTORIAL_L4_H
+#endif //CPLUSPLUS_TUTORIAL_T4_H
