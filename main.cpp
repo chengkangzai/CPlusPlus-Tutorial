@@ -1,14 +1,11 @@
 //#include <iostream>
 //#include <string>
 //#include <utility>
-#include "Tutorial/T4.h"
+//#include "Tutorial/T4.h"
+#include "Lecture//L4.h"
 
 using namespace std;
 
 int main() {
-//    T4::handle1();
-//    T4::handle2();
-//    T4::handle3();
-//    T4::handle4();
-    T4::handle5();
+    L4::test4();
 }

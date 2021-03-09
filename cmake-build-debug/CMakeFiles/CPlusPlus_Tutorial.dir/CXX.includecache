@@ -6,17 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L4.cpp
-L4.h
-C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L4.h
-
 C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L4.h
 iostream
--
-string
--
-algorithm
--
+C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/iostream
 
 C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/main.cpp
 Lecture/L4.h
