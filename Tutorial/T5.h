@@ -2,15 +2,15 @@
 // Created by CCK on 2021-03-15.
 //
 
-#ifndef CPLUSPLUS_TUTORIAL_L5_H
-#define CPLUSPLUS_TUTORIAL_L5_H
+#ifndef CPLUSPLUS_TUTORIAL_T5_H
+#define CPLUSPLUS_TUTORIAL_T5_H
 
 #include "string"
 #include "iostream"
 
 using namespace std;
 
-class L5 {
+class T5 {
 public:
     static void handle1() {
 
@@ -72,4 +72,4 @@ private:
 };
 
 
-#endif //CPLUSPLUS_TUTORIAL_L5_H
+#endif //CPLUSPLUS_TUTORIAL_T5_H
