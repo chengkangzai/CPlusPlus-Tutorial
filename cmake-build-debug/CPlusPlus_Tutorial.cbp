@@ -130,6 +130,12 @@
 		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T4.h">
 			<Option target="CPlusPlus_Tutorial"/>
 		</Unit>
+		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T5.cpp">
+			<Option target="CPlusPlus_Tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T5.h">
+			<Option target="CPlusPlus_Tutorial"/>
+		</Unit>
 		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/main.cpp">
 			<Option target="CPlusPlus_Tutorial"/>
 		</Unit>

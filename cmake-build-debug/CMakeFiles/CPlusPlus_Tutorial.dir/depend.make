@@ -25,6 +25,9 @@ CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T3.cpp.obj: ..\Tutorial\T3.h
 CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T4.cpp.obj: ..\Tutorial\T4.cpp
 CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T4.cpp.obj: ..\Tutorial\T4.h
 
+CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T5.cpp.obj: ..\Tutorial\T5.cpp
+CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T5.cpp.obj: ..\Tutorial\T5.h
+
 CMakeFiles\CPlusPlus_Tutorial.dir\main.cpp.obj: ..\Lecture\L5.h
 CMakeFiles\CPlusPlus_Tutorial.dir\main.cpp.obj: ..\main.cpp
 
