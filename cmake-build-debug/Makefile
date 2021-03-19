@@ -235,6 +235,33 @@ Lecture\L5.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L5.cpp.s
 .PHONY : Lecture\L5.cpp.s
 
+Lecture\L5\Polynomial.obj: Lecture\L5\Polynomial.cpp.obj
+
+.PHONY : Lecture\L5\Polynomial.obj
+
+# target to build an object file
+Lecture\L5\Polynomial.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L5\Polynomial.cpp.obj
+.PHONY : Lecture\L5\Polynomial.cpp.obj
+
+Lecture\L5\Polynomial.i: Lecture\L5\Polynomial.cpp.i
+
+.PHONY : Lecture\L5\Polynomial.i
+
+# target to preprocess a source file
+Lecture\L5\Polynomial.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L5\Polynomial.cpp.i
+.PHONY : Lecture\L5\Polynomial.cpp.i
+
+Lecture\L5\Polynomial.s: Lecture\L5\Polynomial.cpp.s
+
+.PHONY : Lecture\L5\Polynomial.s
+
+# target to generate assembly for a file
+Lecture\L5\Polynomial.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L5\Polynomial.cpp.s
+.PHONY : Lecture\L5\Polynomial.cpp.s
+
 Tutorial\T1.obj: Tutorial\T1.cpp.obj
 
 .PHONY : Tutorial\T1.obj
@@ -418,6 +445,9 @@ help:
 	@echo ... Lecture/L5.obj
 	@echo ... Lecture/L5.i
 	@echo ... Lecture/L5.s
+	@echo ... Lecture/L5/Polynomial.obj
+	@echo ... Lecture/L5/Polynomial.i
+	@echo ... Lecture/L5/Polynomial.s
 	@echo ... Tutorial/T1.obj
 	@echo ... Tutorial/T1.i
 	@echo ... Tutorial/T1.s

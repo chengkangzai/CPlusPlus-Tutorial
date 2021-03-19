@@ -13,6 +13,9 @@ CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L4.cpp.obj
 CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L5.cpp.obj
  C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L5.cpp
  C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L5.h
+CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L5/Polynomial.cpp.obj
+ C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L5/Polynomial.cpp
+ C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L5/Polynomial.h
 CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T1.cpp.obj
  C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T1.cpp
  C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T1.h
@@ -29,5 +32,5 @@ CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T5.cpp.obj
  C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T5.cpp
  C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T5.h
 CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.obj
- C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L5.h
+ C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L5/Polynomial.h
  C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/main.cpp
