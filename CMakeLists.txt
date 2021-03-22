@@ -28,4 +28,10 @@ add_executable(
         Lecture/L5.h
         Lecture/L5/Polynomial.cpp
         Lecture/L5/Polynomial.h
-        Tutorial/T6/Q1.cpp Tutorial/T6/Q1.h Tutorial/T6/CashRegister.cpp Tutorial/T6/CashRegister.h Tutorial/T6/Population.cpp Tutorial/T6/Population.h)
+        Tutorial/T6/Q1.cpp
+        Tutorial/T6/Q1.h
+        Tutorial/T6/CashRegister.cpp
+        Tutorial/T6/CashRegister.h
+        Tutorial/T6/Population.cpp
+        Tutorial/T6/Population.h
+)

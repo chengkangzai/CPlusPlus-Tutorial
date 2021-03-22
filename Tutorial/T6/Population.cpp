@@ -34,7 +34,6 @@ void Population::main() {
     cout << "Birth rate is " << s.getBirthRate() << "\n";
     cout << "Death rate is " << s.getDeathRate() << "\n";
 
-
 }
 
 Population::Population(double birth, double death, double population) {
