@@ -6,17 +6,19 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L5/Polynomial.cpp
-Polynomial.h
-C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L5/Polynomial.h
+C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/Population.cpp
+Population.h
+C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/Population.h
 
-C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L5/Polynomial.h
+C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/Population.h
 iostream
+-
+iomanip
 -
 
 C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/main.cpp
 iostream
 -
-Lecture/L5/Polynomial.h
-C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L5/Polynomial.h
+Tutorial/T6/Population.h
+C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/Population.h
 

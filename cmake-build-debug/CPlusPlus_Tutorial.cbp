@@ -142,6 +142,24 @@
 		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T5.h">
 			<Option target="CPlusPlus_Tutorial"/>
 		</Unit>
+		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/CashRegister.cpp">
+			<Option target="CPlusPlus_Tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/CashRegister.h">
+			<Option target="CPlusPlus_Tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/Population.cpp">
+			<Option target="CPlusPlus_Tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/Population.h">
+			<Option target="CPlusPlus_Tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/Q1.cpp">
+			<Option target="CPlusPlus_Tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/Q1.h">
+			<Option target="CPlusPlus_Tutorial"/>
+		</Unit>
 		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/main.cpp">
 			<Option target="CPlusPlus_Tutorial"/>
 		</Unit>

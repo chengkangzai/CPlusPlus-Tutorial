@@ -31,6 +31,15 @@ CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T4.cpp.obj: ..\Tutorial\T4.h
 CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T5.cpp.obj: ..\Tutorial\T5.cpp
 CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T5.cpp.obj: ..\Tutorial\T5.h
 
-CMakeFiles\CPlusPlus_Tutorial.dir\main.cpp.obj: ..\Lecture\L5\Polynomial.h
+CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\CashRegister.cpp.obj: ..\Tutorial\T6\CashRegister.cpp
+CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\CashRegister.cpp.obj: ..\Tutorial\T6\CashRegister.h
+
+CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\Population.cpp.obj: ..\Tutorial\T6\Population.cpp
+CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\Population.cpp.obj: ..\Tutorial\T6\Population.h
+
+CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\Q1.cpp.obj: ..\Tutorial\T6\Q1.cpp
+CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\Q1.cpp.obj: ..\Tutorial\T6\Q1.h
+
+CMakeFiles\CPlusPlus_Tutorial.dir\main.cpp.obj: ..\Tutorial\T6\Population.h
 CMakeFiles\CPlusPlus_Tutorial.dir\main.cpp.obj: ..\main.cpp
 

@@ -14,6 +14,9 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T3.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T3.cpp.obj"
   "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T4.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T4.cpp.obj"
   "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T5.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T5.cpp.obj"
+  "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/CashRegister.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T6/CashRegister.cpp.obj"
+  "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/Population.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T6/Population.cpp.obj"
+  "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/Q1.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T6/Q1.cpp.obj"
   "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/main.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
