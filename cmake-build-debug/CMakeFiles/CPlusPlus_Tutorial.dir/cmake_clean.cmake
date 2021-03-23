@@ -4,6 +4,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L4.cpp.obj"
   "CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L5.cpp.obj"
   "CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L5/Polynomial.cpp.obj"
+  "CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6.cpp.obj"
+  "CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6_2.cpp.obj"
   "CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T1.cpp.obj"
   "CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T2.cpp.obj"
   "CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T3.cpp.obj"

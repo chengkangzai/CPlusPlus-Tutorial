@@ -6,13 +6,25 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/Population.cpp
-Population.h
-C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/Population.h
+C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L6.cpp
+L6.h
+C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L6.h
 
-C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/Population.h
+C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L6.h
 iostream
 -
-iomanip
+
+C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L6_2.cpp
+L6_2.h
+C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L6_2.h
+
+C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L6_2.h
+iostream
 -
+
+C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/main.cpp
+iostream
+-
+Lecture/L6_2.h
+C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L6_2.h
 

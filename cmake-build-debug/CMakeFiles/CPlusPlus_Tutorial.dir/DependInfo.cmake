@@ -9,6 +9,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L4.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L4.cpp.obj"
   "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L5.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L5.cpp.obj"
   "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L5/Polynomial.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L5/Polynomial.cpp.obj"
+  "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L6.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6.cpp.obj"
+  "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L6_2.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6_2.cpp.obj"
   "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T1.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T1.cpp.obj"
   "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T2.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T2.cpp.obj"
   "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T3.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T3.cpp.obj"

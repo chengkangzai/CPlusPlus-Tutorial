@@ -16,6 +16,12 @@ CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L5.cpp.obj: ..\Lecture\L5.h
 CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L5\Polynomial.cpp.obj: ..\Lecture\L5\Polynomial.cpp
 CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L5\Polynomial.cpp.obj: ..\Lecture\L5\Polynomial.h
 
+CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6.cpp.obj: ..\Lecture\L6.cpp
+CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6.cpp.obj: ..\Lecture\L6.h
+
+CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6_2.cpp.obj: ..\Lecture\L6_2.cpp
+CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6_2.cpp.obj: ..\Lecture\L6_2.h
+
 CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T1.cpp.obj: ..\Tutorial\T1.cpp
 CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T1.cpp.obj: ..\Tutorial\T1.h
 
@@ -40,6 +46,6 @@ CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\Population.cpp.obj: ..\Tutorial\T6
 CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\Q1.cpp.obj: ..\Tutorial\T6\Q1.cpp
 CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\Q1.cpp.obj: ..\Tutorial\T6\Q1.h
 
-CMakeFiles\CPlusPlus_Tutorial.dir\main.cpp.obj: ..\Tutorial\T6\Population.h
+CMakeFiles\CPlusPlus_Tutorial.dir\main.cpp.obj: ..\Lecture\L6_2.h
 CMakeFiles\CPlusPlus_Tutorial.dir\main.cpp.obj: ..\main.cpp
 

@@ -34,4 +34,4 @@ add_executable(
         Tutorial/T6/CashRegister.h
         Tutorial/T6/Population.cpp
         Tutorial/T6/Population.h
-)
+        Lecture/L6.cpp Lecture/L6.h Lecture/L6_2.cpp Lecture/L6_2.h)

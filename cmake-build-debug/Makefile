@@ -262,6 +262,60 @@ Lecture\L5\Polynomial.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L5\Polynomial.cpp.s
 .PHONY : Lecture\L5\Polynomial.cpp.s
 
+Lecture\L6.obj: Lecture\L6.cpp.obj
+
+.PHONY : Lecture\L6.obj
+
+# target to build an object file
+Lecture\L6.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6.cpp.obj
+.PHONY : Lecture\L6.cpp.obj
+
+Lecture\L6.i: Lecture\L6.cpp.i
+
+.PHONY : Lecture\L6.i
+
+# target to preprocess a source file
+Lecture\L6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6.cpp.i
+.PHONY : Lecture\L6.cpp.i
+
+Lecture\L6.s: Lecture\L6.cpp.s
+
+.PHONY : Lecture\L6.s
+
+# target to generate assembly for a file
+Lecture\L6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6.cpp.s
+.PHONY : Lecture\L6.cpp.s
+
+Lecture\L6_2.obj: Lecture\L6_2.cpp.obj
+
+.PHONY : Lecture\L6_2.obj
+
+# target to build an object file
+Lecture\L6_2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6_2.cpp.obj
+.PHONY : Lecture\L6_2.cpp.obj
+
+Lecture\L6_2.i: Lecture\L6_2.cpp.i
+
+.PHONY : Lecture\L6_2.i
+
+# target to preprocess a source file
+Lecture\L6_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6_2.cpp.i
+.PHONY : Lecture\L6_2.cpp.i
+
+Lecture\L6_2.s: Lecture\L6_2.cpp.s
+
+.PHONY : Lecture\L6_2.s
+
+# target to generate assembly for a file
+Lecture\L6_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6_2.cpp.s
+.PHONY : Lecture\L6_2.cpp.s
+
 Tutorial\T1.obj: Tutorial\T1.cpp.obj
 
 .PHONY : Tutorial\T1.obj
@@ -529,6 +583,12 @@ help:
 	@echo ... Lecture/L5/Polynomial.obj
 	@echo ... Lecture/L5/Polynomial.i
 	@echo ... Lecture/L5/Polynomial.s
+	@echo ... Lecture/L6.obj
+	@echo ... Lecture/L6.i
+	@echo ... Lecture/L6.s
+	@echo ... Lecture/L6_2.obj
+	@echo ... Lecture/L6_2.i
+	@echo ... Lecture/L6_2.s
 	@echo ... Tutorial/T1.obj
 	@echo ... Tutorial/T1.i
 	@echo ... Tutorial/T1.s
