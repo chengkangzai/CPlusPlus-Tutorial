@@ -38,4 +38,4 @@ add_executable(
         Lecture/L6.h
         Lecture/L6_2.cpp
         Lecture/L6_2.h
-)
+        Lecture/L7.cpp Lecture/L7.h)
