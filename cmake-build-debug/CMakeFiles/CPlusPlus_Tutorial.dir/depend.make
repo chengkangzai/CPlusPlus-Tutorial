@@ -21,9 +21,6 @@ CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6.cpp.obj: ..\Lecture\L6.h
 
 CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6_2.cpp.obj: ..\Lecture\L6_2.cpp
 
-CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L7.cpp.obj: ..\Lecture\L7.cpp
-CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L7.cpp.obj: ..\Lecture\L7.h
-
 CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T1.cpp.obj: ..\Tutorial\T1.cpp
 CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T1.cpp.obj: ..\Tutorial\T1.h
 
@@ -48,6 +45,9 @@ CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\Population.cpp.obj: ..\Tutorial\T6
 CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\Q1.cpp.obj: ..\Tutorial\T6\Q1.cpp
 CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\Q1.cpp.obj: ..\Tutorial\T6\Q1.h
 
-CMakeFiles\CPlusPlus_Tutorial.dir\main.cpp.obj: ..\Lecture\L7.h
+CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T7.cpp.obj: ..\Tutorial\T7.cpp
+CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T7.cpp.obj: ..\Tutorial\T7.h
+
+CMakeFiles\CPlusPlus_Tutorial.dir\main.cpp.obj: ..\Tutorial\T7.h
 CMakeFiles\CPlusPlus_Tutorial.dir\main.cpp.obj: ..\main.cpp
 

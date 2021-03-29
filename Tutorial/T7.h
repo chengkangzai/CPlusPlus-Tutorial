@@ -2,8 +2,8 @@
 // Created by CCK on 2021-03-29.
 //
 
-#ifndef CPLUSPLUS_TUTORIAL_L7_H
-#define CPLUSPLUS_TUTORIAL_L7_H
+#ifndef CPLUSPLUS_TUTORIAL_T7_H
+#define CPLUSPLUS_TUTORIAL_T7_H
 
 #include <iostream>
 #include <string>
@@ -11,7 +11,7 @@
 using namespace std;
 
 
-class L7 {
+class T7 {
 public:
     struct classInfo {
         int stud_id;
@@ -51,6 +51,10 @@ public:
         struct classInfo *ptr;
         ptr = head;
 
+        if (head == nullptr) {
+            cout << "No Record ! la my friend";
+            return;
+        }
 
         while (ptr != NULL) {
             cout << "Student id : " << ptr->stud_id << " ";
@@ -157,9 +161,9 @@ public:
     }
 };
 
-int main(){
-    L7().main();
-}
+//int main() {
+//    T7().main();
+//}
 
 
-#endif //CPLUSPLUS_TUTORIAL_L7_H
+#endif //CPLUSPLUS_TUTORIAL_T7_H
