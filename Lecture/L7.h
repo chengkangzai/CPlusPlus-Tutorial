@@ -157,9 +157,5 @@ public:
     }
 };
 
-int main(){
-    L7().main();
-}
-
 
 #endif //CPLUSPLUS_TUTORIAL_L7_H
