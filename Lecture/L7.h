@@ -87,6 +87,16 @@ public:
         return current->data;
     }
 
+    void setItemAt(int value, int index) {
+        if (index < 0 || index >= size()) {
+            cout << "Index out of bound. \n";
+            abort();
+        }
+        Node *current = head;
+        for (int i = 0; i < index; i++)
+            current = current->next;
+        current->data = value;
+    }
 
     int main() {
         insertAtEnd(3);
