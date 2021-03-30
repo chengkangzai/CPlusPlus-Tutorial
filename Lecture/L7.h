@@ -114,9 +114,9 @@ public:
     }
 };
 
-
-int main (){
-    L7().main();
-}
+//un comment if you just wanna copy and paste
+//int main (){
+//    L7().main();
+//}
 
 #endif //CPLUSPLUS_TUTORIAL_L7_H
