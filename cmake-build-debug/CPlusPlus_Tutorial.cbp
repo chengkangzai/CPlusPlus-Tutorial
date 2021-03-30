@@ -82,36 +82,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L2.cpp">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L2.h">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L3.cpp">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L3.h">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L4.cpp">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L4.h">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L5.cpp">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L5.h">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L5/Polynomial.cpp">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L5/Polynomial.h">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
 		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L6.cpp">
 			<Option target="CPlusPlus_Tutorial"/>
 		</Unit>
@@ -124,52 +94,10 @@
 		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L6_2.h">
 			<Option target="CPlusPlus_Tutorial"/>
 		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T1.cpp">
+		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L7.cpp">
 			<Option target="CPlusPlus_Tutorial"/>
 		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T1.h">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T2.cpp">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T2.h">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T3.cpp">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T3.h">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T4.cpp">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T4.h">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T5.cpp">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T5.h">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/CashRegister.cpp">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/CashRegister.h">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/Population.cpp">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/Population.h">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/Q1.cpp">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T6/Q1.h">
+		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L7.h">
 			<Option target="CPlusPlus_Tutorial"/>
 		</Unit>
 		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T7.cpp">

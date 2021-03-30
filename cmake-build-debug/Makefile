@@ -127,141 +127,6 @@ CPlusPlus_Tutorial\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\build
 .PHONY : CPlusPlus_Tutorial\fast
 
-Lecture\L2.obj: Lecture\L2.cpp.obj
-
-.PHONY : Lecture\L2.obj
-
-# target to build an object file
-Lecture\L2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L2.cpp.obj
-.PHONY : Lecture\L2.cpp.obj
-
-Lecture\L2.i: Lecture\L2.cpp.i
-
-.PHONY : Lecture\L2.i
-
-# target to preprocess a source file
-Lecture\L2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L2.cpp.i
-.PHONY : Lecture\L2.cpp.i
-
-Lecture\L2.s: Lecture\L2.cpp.s
-
-.PHONY : Lecture\L2.s
-
-# target to generate assembly for a file
-Lecture\L2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L2.cpp.s
-.PHONY : Lecture\L2.cpp.s
-
-Lecture\L3.obj: Lecture\L3.cpp.obj
-
-.PHONY : Lecture\L3.obj
-
-# target to build an object file
-Lecture\L3.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L3.cpp.obj
-.PHONY : Lecture\L3.cpp.obj
-
-Lecture\L3.i: Lecture\L3.cpp.i
-
-.PHONY : Lecture\L3.i
-
-# target to preprocess a source file
-Lecture\L3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L3.cpp.i
-.PHONY : Lecture\L3.cpp.i
-
-Lecture\L3.s: Lecture\L3.cpp.s
-
-.PHONY : Lecture\L3.s
-
-# target to generate assembly for a file
-Lecture\L3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L3.cpp.s
-.PHONY : Lecture\L3.cpp.s
-
-Lecture\L4.obj: Lecture\L4.cpp.obj
-
-.PHONY : Lecture\L4.obj
-
-# target to build an object file
-Lecture\L4.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L4.cpp.obj
-.PHONY : Lecture\L4.cpp.obj
-
-Lecture\L4.i: Lecture\L4.cpp.i
-
-.PHONY : Lecture\L4.i
-
-# target to preprocess a source file
-Lecture\L4.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L4.cpp.i
-.PHONY : Lecture\L4.cpp.i
-
-Lecture\L4.s: Lecture\L4.cpp.s
-
-.PHONY : Lecture\L4.s
-
-# target to generate assembly for a file
-Lecture\L4.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L4.cpp.s
-.PHONY : Lecture\L4.cpp.s
-
-Lecture\L5.obj: Lecture\L5.cpp.obj
-
-.PHONY : Lecture\L5.obj
-
-# target to build an object file
-Lecture\L5.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L5.cpp.obj
-.PHONY : Lecture\L5.cpp.obj
-
-Lecture\L5.i: Lecture\L5.cpp.i
-
-.PHONY : Lecture\L5.i
-
-# target to preprocess a source file
-Lecture\L5.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L5.cpp.i
-.PHONY : Lecture\L5.cpp.i
-
-Lecture\L5.s: Lecture\L5.cpp.s
-
-.PHONY : Lecture\L5.s
-
-# target to generate assembly for a file
-Lecture\L5.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L5.cpp.s
-.PHONY : Lecture\L5.cpp.s
-
-Lecture\L5\Polynomial.obj: Lecture\L5\Polynomial.cpp.obj
-
-.PHONY : Lecture\L5\Polynomial.obj
-
-# target to build an object file
-Lecture\L5\Polynomial.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L5\Polynomial.cpp.obj
-.PHONY : Lecture\L5\Polynomial.cpp.obj
-
-Lecture\L5\Polynomial.i: Lecture\L5\Polynomial.cpp.i
-
-.PHONY : Lecture\L5\Polynomial.i
-
-# target to preprocess a source file
-Lecture\L5\Polynomial.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L5\Polynomial.cpp.i
-.PHONY : Lecture\L5\Polynomial.cpp.i
-
-Lecture\L5\Polynomial.s: Lecture\L5\Polynomial.cpp.s
-
-.PHONY : Lecture\L5\Polynomial.s
-
-# target to generate assembly for a file
-Lecture\L5\Polynomial.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L5\Polynomial.cpp.s
-.PHONY : Lecture\L5\Polynomial.cpp.s
-
 Lecture\L6.obj: Lecture\L6.cpp.obj
 
 .PHONY : Lecture\L6.obj
@@ -316,221 +181,32 @@ Lecture\L6_2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6_2.cpp.s
 .PHONY : Lecture\L6_2.cpp.s
 
-Tutorial\T1.obj: Tutorial\T1.cpp.obj
+Lecture\L7.obj: Lecture\L7.cpp.obj
 
-.PHONY : Tutorial\T1.obj
-
-# target to build an object file
-Tutorial\T1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T1.cpp.obj
-.PHONY : Tutorial\T1.cpp.obj
-
-Tutorial\T1.i: Tutorial\T1.cpp.i
-
-.PHONY : Tutorial\T1.i
-
-# target to preprocess a source file
-Tutorial\T1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T1.cpp.i
-.PHONY : Tutorial\T1.cpp.i
-
-Tutorial\T1.s: Tutorial\T1.cpp.s
-
-.PHONY : Tutorial\T1.s
-
-# target to generate assembly for a file
-Tutorial\T1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T1.cpp.s
-.PHONY : Tutorial\T1.cpp.s
-
-Tutorial\T2.obj: Tutorial\T2.cpp.obj
-
-.PHONY : Tutorial\T2.obj
+.PHONY : Lecture\L7.obj
 
 # target to build an object file
-Tutorial\T2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T2.cpp.obj
-.PHONY : Tutorial\T2.cpp.obj
+Lecture\L7.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L7.cpp.obj
+.PHONY : Lecture\L7.cpp.obj
 
-Tutorial\T2.i: Tutorial\T2.cpp.i
+Lecture\L7.i: Lecture\L7.cpp.i
 
-.PHONY : Tutorial\T2.i
-
-# target to preprocess a source file
-Tutorial\T2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T2.cpp.i
-.PHONY : Tutorial\T2.cpp.i
-
-Tutorial\T2.s: Tutorial\T2.cpp.s
-
-.PHONY : Tutorial\T2.s
-
-# target to generate assembly for a file
-Tutorial\T2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T2.cpp.s
-.PHONY : Tutorial\T2.cpp.s
-
-Tutorial\T3.obj: Tutorial\T3.cpp.obj
-
-.PHONY : Tutorial\T3.obj
-
-# target to build an object file
-Tutorial\T3.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T3.cpp.obj
-.PHONY : Tutorial\T3.cpp.obj
-
-Tutorial\T3.i: Tutorial\T3.cpp.i
-
-.PHONY : Tutorial\T3.i
+.PHONY : Lecture\L7.i
 
 # target to preprocess a source file
-Tutorial\T3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T3.cpp.i
-.PHONY : Tutorial\T3.cpp.i
+Lecture\L7.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L7.cpp.i
+.PHONY : Lecture\L7.cpp.i
 
-Tutorial\T3.s: Tutorial\T3.cpp.s
+Lecture\L7.s: Lecture\L7.cpp.s
 
-.PHONY : Tutorial\T3.s
-
-# target to generate assembly for a file
-Tutorial\T3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T3.cpp.s
-.PHONY : Tutorial\T3.cpp.s
-
-Tutorial\T4.obj: Tutorial\T4.cpp.obj
-
-.PHONY : Tutorial\T4.obj
-
-# target to build an object file
-Tutorial\T4.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T4.cpp.obj
-.PHONY : Tutorial\T4.cpp.obj
-
-Tutorial\T4.i: Tutorial\T4.cpp.i
-
-.PHONY : Tutorial\T4.i
-
-# target to preprocess a source file
-Tutorial\T4.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T4.cpp.i
-.PHONY : Tutorial\T4.cpp.i
-
-Tutorial\T4.s: Tutorial\T4.cpp.s
-
-.PHONY : Tutorial\T4.s
+.PHONY : Lecture\L7.s
 
 # target to generate assembly for a file
-Tutorial\T4.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T4.cpp.s
-.PHONY : Tutorial\T4.cpp.s
-
-Tutorial\T5.obj: Tutorial\T5.cpp.obj
-
-.PHONY : Tutorial\T5.obj
-
-# target to build an object file
-Tutorial\T5.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T5.cpp.obj
-.PHONY : Tutorial\T5.cpp.obj
-
-Tutorial\T5.i: Tutorial\T5.cpp.i
-
-.PHONY : Tutorial\T5.i
-
-# target to preprocess a source file
-Tutorial\T5.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T5.cpp.i
-.PHONY : Tutorial\T5.cpp.i
-
-Tutorial\T5.s: Tutorial\T5.cpp.s
-
-.PHONY : Tutorial\T5.s
-
-# target to generate assembly for a file
-Tutorial\T5.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T5.cpp.s
-.PHONY : Tutorial\T5.cpp.s
-
-Tutorial\T6\CashRegister.obj: Tutorial\T6\CashRegister.cpp.obj
-
-.PHONY : Tutorial\T6\CashRegister.obj
-
-# target to build an object file
-Tutorial\T6\CashRegister.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\CashRegister.cpp.obj
-.PHONY : Tutorial\T6\CashRegister.cpp.obj
-
-Tutorial\T6\CashRegister.i: Tutorial\T6\CashRegister.cpp.i
-
-.PHONY : Tutorial\T6\CashRegister.i
-
-# target to preprocess a source file
-Tutorial\T6\CashRegister.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\CashRegister.cpp.i
-.PHONY : Tutorial\T6\CashRegister.cpp.i
-
-Tutorial\T6\CashRegister.s: Tutorial\T6\CashRegister.cpp.s
-
-.PHONY : Tutorial\T6\CashRegister.s
-
-# target to generate assembly for a file
-Tutorial\T6\CashRegister.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\CashRegister.cpp.s
-.PHONY : Tutorial\T6\CashRegister.cpp.s
-
-Tutorial\T6\Population.obj: Tutorial\T6\Population.cpp.obj
-
-.PHONY : Tutorial\T6\Population.obj
-
-# target to build an object file
-Tutorial\T6\Population.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\Population.cpp.obj
-.PHONY : Tutorial\T6\Population.cpp.obj
-
-Tutorial\T6\Population.i: Tutorial\T6\Population.cpp.i
-
-.PHONY : Tutorial\T6\Population.i
-
-# target to preprocess a source file
-Tutorial\T6\Population.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\Population.cpp.i
-.PHONY : Tutorial\T6\Population.cpp.i
-
-Tutorial\T6\Population.s: Tutorial\T6\Population.cpp.s
-
-.PHONY : Tutorial\T6\Population.s
-
-# target to generate assembly for a file
-Tutorial\T6\Population.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\Population.cpp.s
-.PHONY : Tutorial\T6\Population.cpp.s
-
-Tutorial\T6\Q1.obj: Tutorial\T6\Q1.cpp.obj
-
-.PHONY : Tutorial\T6\Q1.obj
-
-# target to build an object file
-Tutorial\T6\Q1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\Q1.cpp.obj
-.PHONY : Tutorial\T6\Q1.cpp.obj
-
-Tutorial\T6\Q1.i: Tutorial\T6\Q1.cpp.i
-
-.PHONY : Tutorial\T6\Q1.i
-
-# target to preprocess a source file
-Tutorial\T6\Q1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\Q1.cpp.i
-.PHONY : Tutorial\T6\Q1.cpp.i
-
-Tutorial\T6\Q1.s: Tutorial\T6\Q1.cpp.s
-
-.PHONY : Tutorial\T6\Q1.s
-
-# target to generate assembly for a file
-Tutorial\T6\Q1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T6\Q1.cpp.s
-.PHONY : Tutorial\T6\Q1.cpp.s
+Lecture\L7.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L7.cpp.s
+.PHONY : Lecture\L7.cpp.s
 
 Tutorial\T7.obj: Tutorial\T7.cpp.obj
 
@@ -595,51 +271,15 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... CPlusPlus_Tutorial
-	@echo ... Lecture/L2.obj
-	@echo ... Lecture/L2.i
-	@echo ... Lecture/L2.s
-	@echo ... Lecture/L3.obj
-	@echo ... Lecture/L3.i
-	@echo ... Lecture/L3.s
-	@echo ... Lecture/L4.obj
-	@echo ... Lecture/L4.i
-	@echo ... Lecture/L4.s
-	@echo ... Lecture/L5.obj
-	@echo ... Lecture/L5.i
-	@echo ... Lecture/L5.s
-	@echo ... Lecture/L5/Polynomial.obj
-	@echo ... Lecture/L5/Polynomial.i
-	@echo ... Lecture/L5/Polynomial.s
 	@echo ... Lecture/L6.obj
 	@echo ... Lecture/L6.i
 	@echo ... Lecture/L6.s
 	@echo ... Lecture/L6_2.obj
 	@echo ... Lecture/L6_2.i
 	@echo ... Lecture/L6_2.s
-	@echo ... Tutorial/T1.obj
-	@echo ... Tutorial/T1.i
-	@echo ... Tutorial/T1.s
-	@echo ... Tutorial/T2.obj
-	@echo ... Tutorial/T2.i
-	@echo ... Tutorial/T2.s
-	@echo ... Tutorial/T3.obj
-	@echo ... Tutorial/T3.i
-	@echo ... Tutorial/T3.s
-	@echo ... Tutorial/T4.obj
-	@echo ... Tutorial/T4.i
-	@echo ... Tutorial/T4.s
-	@echo ... Tutorial/T5.obj
-	@echo ... Tutorial/T5.i
-	@echo ... Tutorial/T5.s
-	@echo ... Tutorial/T6/CashRegister.obj
-	@echo ... Tutorial/T6/CashRegister.i
-	@echo ... Tutorial/T6/CashRegister.s
-	@echo ... Tutorial/T6/Population.obj
-	@echo ... Tutorial/T6/Population.i
-	@echo ... Tutorial/T6/Population.s
-	@echo ... Tutorial/T6/Q1.obj
-	@echo ... Tutorial/T6/Q1.i
-	@echo ... Tutorial/T6/Q1.s
+	@echo ... Lecture/L7.obj
+	@echo ... Lecture/L7.i
+	@echo ... Lecture/L7.s
 	@echo ... Tutorial/T7.obj
 	@echo ... Tutorial/T7.i
 	@echo ... Tutorial/T7.s
