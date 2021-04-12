@@ -6,8 +6,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L6.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6.cpp.obj"
   "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L6_2.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6_2.cpp.obj"
-  "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L7.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L7.cpp.obj"
-  "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T7.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T7.cpp.obj"
   "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/main.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")

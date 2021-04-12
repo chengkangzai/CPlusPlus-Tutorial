@@ -180,60 +180,6 @@ Lecture\L6_2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6_2.cpp.s
 .PHONY : Lecture\L6_2.cpp.s
 
-Lecture\L7.obj: Lecture\L7.cpp.obj
-
-.PHONY : Lecture\L7.obj
-
-# target to build an object file
-Lecture\L7.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L7.cpp.obj
-.PHONY : Lecture\L7.cpp.obj
-
-Lecture\L7.i: Lecture\L7.cpp.i
-
-.PHONY : Lecture\L7.i
-
-# target to preprocess a source file
-Lecture\L7.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L7.cpp.i
-.PHONY : Lecture\L7.cpp.i
-
-Lecture\L7.s: Lecture\L7.cpp.s
-
-.PHONY : Lecture\L7.s
-
-# target to generate assembly for a file
-Lecture\L7.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L7.cpp.s
-.PHONY : Lecture\L7.cpp.s
-
-Tutorial\T7.obj: Tutorial\T7.cpp.obj
-
-.PHONY : Tutorial\T7.obj
-
-# target to build an object file
-Tutorial\T7.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T7.cpp.obj
-.PHONY : Tutorial\T7.cpp.obj
-
-Tutorial\T7.i: Tutorial\T7.cpp.i
-
-.PHONY : Tutorial\T7.i
-
-# target to preprocess a source file
-Tutorial\T7.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T7.cpp.i
-.PHONY : Tutorial\T7.cpp.i
-
-Tutorial\T7.s: Tutorial\T7.cpp.s
-
-.PHONY : Tutorial\T7.s
-
-# target to generate assembly for a file
-Tutorial\T7.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlusPlus_Tutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T7.cpp.s
-.PHONY : Tutorial\T7.cpp.s
-
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -276,12 +222,6 @@ help:
 	@echo ... Lecture/L6_2.obj
 	@echo ... Lecture/L6_2.i
 	@echo ... Lecture/L6_2.s
-	@echo ... Lecture/L7.obj
-	@echo ... Lecture/L7.i
-	@echo ... Lecture/L7.s
-	@echo ... Tutorial/T7.obj
-	@echo ... Tutorial/T7.i
-	@echo ... Tutorial/T7.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

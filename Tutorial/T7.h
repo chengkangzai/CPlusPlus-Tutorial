@@ -57,7 +57,7 @@ public:
         }
 
         while (ptr != NULL) {
-            cout << "Student id : " << ptr->stud_id << " ";
+            cout << "Book id : " << ptr->stud_id << " ";
             cout << "Total marks : " << this->totalMarks(ptr);
 //            cout << "Test : " << ptr->test << " ";
 //            cout << "Assignment : " << ptr->assignment << " ";
@@ -109,23 +109,23 @@ public:
         string temp;
         int studentId;
         float test, assignment, quiz, final;
-        cout << "Enter Student ID \n";
+        cout << "Enter Book ID \n";
         cin >> temp;
         studentId = stoi(temp);
 
-        cout << "Enter Student TEST Marks (100%) \n";
+        cout << "Enter Book TEST Marks (100%) \n";
         cin >> temp;
         test = stof(temp);
 
-        cout << "Enter Student ASSIGNMENT Marks (100%) \n";
+        cout << "Enter Book ASSIGNMENT Marks (100%) \n";
         cin >> temp;
         assignment = stof(temp);
 
-        cout << "Enter Student QUIZ Marks (100%) \n";
+        cout << "Enter Book QUIZ Marks (100%) \n";
         cin >> temp;
         quiz = stof(temp);
 
-        cout << "Enter Student FINAL Exam Marks (100%) \n";
+        cout << "Enter Book FINAL Exam Marks (100%) \n";
         cin >> temp;
         final = stof(temp);
 

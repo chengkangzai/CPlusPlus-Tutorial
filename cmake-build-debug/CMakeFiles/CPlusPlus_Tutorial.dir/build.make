@@ -117,51 +117,11 @@ CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6_2.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6_2.cpp.s /c C:\Users\CCK\CLionProjects\CPlusPlus-Tutorial\Lecture\L6_2.cpp
 <<
 
-CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T7.cpp.obj: CMakeFiles\CPlusPlus_Tutorial.dir\flags.make
-CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T7.cpp.obj: ..\Tutorial\T7.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\CCK\CLionProjects\CPlusPlus-Tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T7.cpp.obj"
-	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T7.cpp.obj /FdCMakeFiles\CPlusPlus_Tutorial.dir\ /FS -c C:\Users\CCK\CLionProjects\CPlusPlus-Tutorial\Tutorial\T7.cpp
-<<
-
-CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T7.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T7.cpp.i"
-	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe > CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T7.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\CCK\CLionProjects\CPlusPlus-Tutorial\Tutorial\T7.cpp
-<<
-
-CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T7.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T7.cpp.s"
-	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T7.cpp.s /c C:\Users\CCK\CLionProjects\CPlusPlus-Tutorial\Tutorial\T7.cpp
-<<
-
-CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L7.cpp.obj: CMakeFiles\CPlusPlus_Tutorial.dir\flags.make
-CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L7.cpp.obj: ..\Lecture\L7.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\CCK\CLionProjects\CPlusPlus-Tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L7.cpp.obj"
-	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L7.cpp.obj /FdCMakeFiles\CPlusPlus_Tutorial.dir\ /FS -c C:\Users\CCK\CLionProjects\CPlusPlus-Tutorial\Lecture\L7.cpp
-<<
-
-CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L7.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L7.cpp.i"
-	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe > CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L7.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\CCK\CLionProjects\CPlusPlus-Tutorial\Lecture\L7.cpp
-<<
-
-CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L7.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L7.cpp.s"
-	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L7.cpp.s /c C:\Users\CCK\CLionProjects\CPlusPlus-Tutorial\Lecture\L7.cpp
-<<
-
 # Object files for target CPlusPlus_Tutorial
 CPlusPlus_Tutorial_OBJECTS = \
 "CMakeFiles\CPlusPlus_Tutorial.dir\main.cpp.obj" \
 "CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6.cpp.obj" \
-"CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6_2.cpp.obj" \
-"CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T7.cpp.obj" \
-"CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L7.cpp.obj"
+"CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6_2.cpp.obj"
 
 # External object files for target CPlusPlus_Tutorial
 CPlusPlus_Tutorial_EXTERNAL_OBJECTS =
@@ -169,11 +129,9 @@ CPlusPlus_Tutorial_EXTERNAL_OBJECTS =
 CPlusPlus_Tutorial.exe: CMakeFiles\CPlusPlus_Tutorial.dir\main.cpp.obj
 CPlusPlus_Tutorial.exe: CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6.cpp.obj
 CPlusPlus_Tutorial.exe: CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6_2.cpp.obj
-CPlusPlus_Tutorial.exe: CMakeFiles\CPlusPlus_Tutorial.dir\Tutorial\T7.cpp.obj
-CPlusPlus_Tutorial.exe: CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L7.cpp.obj
 CPlusPlus_Tutorial.exe: CMakeFiles\CPlusPlus_Tutorial.dir\build.make
 CPlusPlus_Tutorial.exe: CMakeFiles\CPlusPlus_Tutorial.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\CCK\CLionProjects\CPlusPlus-Tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable CPlusPlus_Tutorial.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\CCK\CLionProjects\CPlusPlus-Tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable CPlusPlus_Tutorial.exe"
 	"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\CPlusPlus_Tutorial.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\CPlusPlus_Tutorial.dir\objects1.rsp @<<
  /out:CPlusPlus_Tutorial.exe /implib:CPlusPlus_Tutorial.lib /pdb:C:\Users\CCK\CLionProjects\CPlusPlus-Tutorial\cmake-build-debug\CPlusPlus_Tutorial.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

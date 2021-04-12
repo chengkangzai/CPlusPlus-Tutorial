@@ -94,16 +94,13 @@
 		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L6_2.h">
 			<Option target="CPlusPlus_Tutorial"/>
 		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L7.cpp">
-			<Option target="CPlusPlus_Tutorial"/>
-		</Unit>
 		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L7.h">
 			<Option target="CPlusPlus_Tutorial"/>
 		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T7.cpp">
+		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T7.h">
 			<Option target="CPlusPlus_Tutorial"/>
 		</Unit>
-		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T7.h">
+		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Tutorial/T9.h">
 			<Option target="CPlusPlus_Tutorial"/>
 		</Unit>
 		<Unit filename="C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/main.cpp">

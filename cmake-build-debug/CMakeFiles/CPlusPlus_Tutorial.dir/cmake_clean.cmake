@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6.cpp.obj"
   "CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6_2.cpp.obj"
-  "CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L7.cpp.obj"
-  "CMakeFiles/CPlusPlus_Tutorial.dir/Tutorial/T7.cpp.obj"
   "CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.obj"
   "CPlusPlus_Tutorial.exe"
   "CPlusPlus_Tutorial.exe.manifest"
