@@ -6,6 +6,6 @@ CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6.cpp.obj: ..\Lecture\L6.h
 
 CMakeFiles\CPlusPlus_Tutorial.dir\Lecture\L6_2.cpp.obj: ..\Lecture\L6_2.cpp
 
-CMakeFiles\CPlusPlus_Tutorial.dir\main.cpp.obj: ..\Tutorial\T9.h
+CMakeFiles\CPlusPlus_Tutorial.dir\main.cpp.obj: ..\Lecture\L9.h
 CMakeFiles\CPlusPlus_Tutorial.dir\main.cpp.obj: ..\main.cpp
 
