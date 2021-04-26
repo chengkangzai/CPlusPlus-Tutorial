@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L6.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6.cpp.obj"
-  "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/Lecture/L6_2.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6_2.cpp.obj"
-  "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/main.cpp" "C:/Users/CCK/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.obj"
+  "/Users/cck/CLionProjects/CPlusPlus-Tutorial/Lecture/L6.cpp" "/Users/cck/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6.cpp.o"
+  "/Users/cck/CLionProjects/CPlusPlus-Tutorial/Lecture/L6_2.cpp" "/Users/cck/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6_2.cpp.o"
+  "/Users/cck/CLionProjects/CPlusPlus-Tutorial/main.cpp" "/Users/cck/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "MSVC")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
