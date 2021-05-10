@@ -79,41 +79,41 @@ include CMakeFiles/CPlusPlus_Tutorial.dir/flags.make
 CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.o: CMakeFiles/CPlusPlus_Tutorial.dir/flags.make
 CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.o: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/cck/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.o -c /Users/cck/CLionProjects/CPlusPlus-Tutorial/main.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.o -c /Users/cck/CLionProjects/CPlusPlus-Tutorial/main.cpp
 
 CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/cck/CLionProjects/CPlusPlus-Tutorial/main.cpp > CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/cck/CLionProjects/CPlusPlus-Tutorial/main.cpp > CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.i
 
 CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/cck/CLionProjects/CPlusPlus-Tutorial/main.cpp -o CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/cck/CLionProjects/CPlusPlus-Tutorial/main.cpp -o CMakeFiles/CPlusPlus_Tutorial.dir/main.cpp.s
 
 CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6.cpp.o: CMakeFiles/CPlusPlus_Tutorial.dir/flags.make
 CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6.cpp.o: ../Lecture/L6.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/cck/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6.cpp.o -c /Users/cck/CLionProjects/CPlusPlus-Tutorial/Lecture/L6.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6.cpp.o -c /Users/cck/CLionProjects/CPlusPlus-Tutorial/Lecture/L6.cpp
 
 CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/cck/CLionProjects/CPlusPlus-Tutorial/Lecture/L6.cpp > CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/cck/CLionProjects/CPlusPlus-Tutorial/Lecture/L6.cpp > CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6.cpp.i
 
 CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/cck/CLionProjects/CPlusPlus-Tutorial/Lecture/L6.cpp -o CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/cck/CLionProjects/CPlusPlus-Tutorial/Lecture/L6.cpp -o CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6.cpp.s
 
 CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6_2.cpp.o: CMakeFiles/CPlusPlus_Tutorial.dir/flags.make
 CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6_2.cpp.o: ../Lecture/L6_2.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/cck/CLionProjects/CPlusPlus-Tutorial/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6_2.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6_2.cpp.o -c /Users/cck/CLionProjects/CPlusPlus-Tutorial/Lecture/L6_2.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6_2.cpp.o -c /Users/cck/CLionProjects/CPlusPlus-Tutorial/Lecture/L6_2.cpp
 
 CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6_2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6_2.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/cck/CLionProjects/CPlusPlus-Tutorial/Lecture/L6_2.cpp > CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6_2.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/cck/CLionProjects/CPlusPlus-Tutorial/Lecture/L6_2.cpp > CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6_2.cpp.i
 
 CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6_2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6_2.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/cck/CLionProjects/CPlusPlus-Tutorial/Lecture/L6_2.cpp -o CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6_2.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/cck/CLionProjects/CPlusPlus-Tutorial/Lecture/L6_2.cpp -o CMakeFiles/CPlusPlus_Tutorial.dir/Lecture/L6_2.cpp.s
 
 # Object files for target CPlusPlus_Tutorial
 CPlusPlus_Tutorial_OBJECTS = \
